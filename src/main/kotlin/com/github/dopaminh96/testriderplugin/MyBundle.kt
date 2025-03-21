@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.dopaminh96.testriderplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
